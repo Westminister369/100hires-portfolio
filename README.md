@@ -17,7 +17,7 @@ Assignment-02
 
 ## Issues I Ran Into & How I Solved Them
 - Claude Code did not prompt a login — researched and found this is normal behavior when already authenticated
-- [Add any other issues you faced here]
+- Few bugs was there during push prompted agent to troubleshoot and force push it to git.
 
 ## About Me
 Bhupender Singh — Content Specialist, AI Trainer & Translator  
