@@ -1,5 +1,7 @@
 # 100hires-portfolio
 
+Assignment-02
+
 ## Tools Installed
 - **Cursor IDE** — AI-powered code editor
 - **Claude Code** — AI coding assistant extension in Cursor
@@ -18,5 +20,5 @@
 - [Add any other issues you faced here]
 
 ## About Me
-Bhupender Singh — Content Specialist, AI Trainer & Translator
+Bhupender Singh — Content Specialist, AI Trainer & Translator  
 Based in Kaithal, Haryana, India
