@@ -20,5 +20,5 @@ Assignment-02
 - Few bugs was there during push prompted agent to troubleshoot and force push it to git.
 
 ## About Me
-Bhupender Singh — Content Specialist, AI Trainer & Translator  
-Based in Kaithal, Haryana, India
+Bhupender Singh — AI, Content, Marketing & Growth Operations.
+Link to Porfolio - https://westminister369.github.io/Portfolio/ 
