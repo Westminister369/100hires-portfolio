@@ -1,8 +1,4 @@
 # 100Hires Portfolio Project
-**Bhupender Singh** | Content Specialist | AI Trainer | Translator
-Kaithal, Haryana, India
-
----
 
 ## Topic Chosen
 **AI-Powered SEO Content Production**
@@ -43,11 +39,11 @@ but people actively building, testing, and shipping in this space.
 | 1 | Aleyda Solis | LinkedIn + YouTube |
 | 2 | Kevin Indig | LinkedIn + YouTube |
 | 3 | Lily Ray | LinkedIn + YouTube |
-| 4 | Kyle Roof | YouTube |
+| 4 | Kyle Roof | LinkedIn + YouTube |
 | 5 | Cyrus Shepard | LinkedIn |
-| 6 | Brendan Hufford | LinkedIn |
+| 6 | Brendan Hufford | LinkedIn + YouTube |
 | 7 | Eli Schwartz | LinkedIn |
-| 8 | Gael Breton | YouTube |
+| 8 | Gael Breton | LinkedIn + YouTube |
 | 9 | Koray Tuğberk GÜBÜR | LinkedIn + YouTube |
 | 10 | Ryan Law | LinkedIn |
 
