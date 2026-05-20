@@ -1,8 +1,4 @@
 # 100Hires Portfolio Project
-**Bhupender Singh** | Content Specialist | AI Trainer | Translator
-Kaithal, Haryana, India
-
----
 
 ## Topic Chosen
 **AI-Powered SEO Content Production**
